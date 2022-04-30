@@ -120,5 +120,76 @@ h5{
     
 
   }
+  h3{
+    align:right;
+    color: palevioletred;
+    padding: 40px 30px
+    display:flex;
+    margin-left:100px;
+
+  }
+  .para{
+    color: silver;
+   align:right;
+   display:inline-block;
+    padding: 40px 30px;
+    margin-left:100px;
+    clear: left;
+  }
+    .dir1{
+      width: 300px;
+      display: flex;
+      align-items: center;
+    }
+   
+    
+  .dir1 img{
+    float: right;
+    height: 300px;
+    width: 350px;
+    align:right;
+    margin-right: 10px;
+    display: flex;
+    padding: 60px;
+    
+
+  }
+  
+  h4{
+    color: palevioletred;
+    padding: 30px;
+  }
+  .par{
+    color: silver;
+   align:right;
+   display:inline-block;
+    padding: 0px 30px;
+    margin-left:40px;
+    clear: right;
+  }
+    .dir{
+      width: 300px;
+      display: flex;
+      align-items: center;
+    }
+   
+    
+  .dir img{
+    float: right;
+    height: 500px;
+    width: 400px;
+    align:right;
+    margin-right: 10px;
+    display: flex;
+    
+
+  }
+  h6{
+    color: palevioletred;
+    padding: 100px;
+  }
+
+  </body>
+</html>
 
   
