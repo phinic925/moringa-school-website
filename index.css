@@ -201,18 +201,30 @@ h5{
  }
  .day{
    color: black;
-   text-align: center;
+   text-align:center;
    position: relative;
-   padding.day{
     padding-left:50px;
-    padding-bottom:10px;
+    padding-bottom:300px;
+
  }
  .para{
   color: black;
-  text-align: center;
+  text-align:center;
+  float:right ;
   position: relative;
-  padding-left:50px;
+  padding-left:100px;
   padding-bottom:10px;
+margin-right: 400px;
+margin-top:200px;
 }
+.dirl img{
 
+  float: left;
+  padding: 40px;
+}
+.go{
+ color: #EC4067;
+ margin-inline-start: 300px;
+ margin-bottom: 250px;
+}
   
