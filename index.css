@@ -5,13 +5,10 @@
     font-family: 'nunito';
 }
 .header{
-  min-height: 30vh;
+  min-height: 20vh;
   width: 100%;
   background-position: center;
-  background-size: cover;
-  position: relative;
-  box-sizing: border-box;
-  outline: none;
+   outline: none;
   border: none;
   text-decoration: none;
 }
@@ -46,7 +43,7 @@
     padding: 15px;
     text-decoration: none;
 }
-.enroll{
+.act.enroll{
     background-color: #EC4067;
     margin: 2px;
 
@@ -59,32 +56,29 @@ h5{
   h1{
     color: palevioletred;
     padding: 30px;
+    min-height: 5vh;
+    position:absolute;
   }
-  .par{
-    color: silver;
-   align:right;
-   display:inline-block;
-    padding: 0px 30px;
-    margin-left:40px;
-    clear: right;
-  }
-    .dir{
-      width: 300px;
-      display: flex;
-      align-items: center;
-    }
-   
+  
     
-  .dir img{
+  .dir .right{
     float: right;
     height: 500px;
     width: 400px;
-    align:right;
-    margin-right: 10px;
-    display: flex;
-    
-
+     padding-left: 300px;
+      margin: 0px 0px 15px 20px;
   }
+  .par {
+    color: silver;
+   text-align:left;
+   display:inline-block;
+    padding-left: 0px 30px;
+    padding-top: 20px;
+    margin-left:40px;
+    clear:left;
+    
+  }
+    
 
   h2{
     align:right;
@@ -189,7 +183,36 @@ h5{
     padding: 100px;
   }
 
-  </body>
-</html>
+ .now{
+   background-color: #EC4067;
+  color:black;
+  border: solid;
+  margin-inline-start: 50px;
+ }
+
+ .exp{
+   color: palevioletred;
+   border: solid;
+
+   margin-inline-start: 10px;
+ }
+ .ries{
+   color: black;
+ }
+ .day{
+   color: black;
+   text-align: center;
+   position: relative;
+   padding.day{
+    padding-left:50px;
+    padding-bottom:10px;
+ }
+ .para{
+  color: black;
+  text-align: center;
+  position: relative;
+  padding-left:50px;
+  padding-bottom:10px;
+}
 
   
