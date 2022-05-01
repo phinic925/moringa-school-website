@@ -184,28 +184,31 @@ left:100px;
 
 h4{
   color: palevioletred;
-  padding: 60px;
+  padding: 100px;
   position:relative;
-  top: 80px;
+  bottom:80px;
+  text-align:center;
+  float:center;
+  
   
 }  
 .em img{
-  float:right;
+  loat:left;
+  height: 300px;
+  width: 400px;
+  padding: 100px;
   position: relative;
-  right : 80px;
-  height:300px;
-  width: 250px;
- margin-bottom:  20px;
- margin-right: 450px;
-
+  bottom: 350px;
 }
+  
+  
 .parag1{
-  color:black;
+  color: black;
   text-align:center;
+  float:center ;
   position: relative;
-  margin-top:200px ;
-  right:400px;
-  margin-left:5px;
-  top: 200px;
+  bottom: 150px;
+  margin-left: 150px;
   
 } 
+
