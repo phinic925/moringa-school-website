@@ -340,3 +340,27 @@ h4{
     top: -590px;
     left: 990px;
 }
+.proj{
+  color: black;
+  padding:60px;
+  position: relative;
+  top:-350px;
+}
+.bike{
+  color: black;
+  padding:60px;
+  position:relative;
+  top:-400px;
+  text-align: left;
+}
+.bike1{
+color: #EC4067;
+position: relative;
+top: -500px;
+}
+.bike2{
+  font-size: small;
+  position: relative;
+  top: -600px;
+  padding: 60px;
+}
