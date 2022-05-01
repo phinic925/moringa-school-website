@@ -239,7 +239,7 @@ h4{
 }
 .ask{
   background-color: #EC4067;
-  border: ridge;
+  
   position: relative;
   top: -340px;
   padding: 20px;
@@ -255,11 +255,11 @@ h4{
 }
 .web2{
   color: palevioletred;
-  text-align: center;
   position: relative;
-  top: -450px;
-  left: -80px;
+  top: -300px;
+  left: -400px;
 }
+
 .arn{
   text-align: center;
   font-size: small;
@@ -270,9 +270,43 @@ h4{
 .now1{
   float: center;
   background-color: #EC4067;
-  border: ridge;
+  
   position: relative;
   top: -430px;
   left: 350px;
 }
+.image7 img{
+  float:right;
+  align-items: center;
+  position: relative;
+  top:-880px;
+  left: -150px;
+  width:250px;
+  height: 300px;
+}
+.web3{
+  color: palevioletred;
+  position: relative;
+  left: 400px;
+  top: -530px;
+  right:50px;
+  text-align: center;
+  
+}
+.arn1{
 
+    text-align: center;
+    font-size: small;
+    position: relative;
+    top: -520px;
+    left: 400px; 
+    
+}
+.now2{
+  float: center;
+  background-color: #EC4067;
+  
+  position: relative;
+  top: -500px;
+  left: 700px;
+}
