@@ -148,14 +148,64 @@ border:solid;
 .board{
   color:black;
   position: relative;
-  top:180px;
+  top:190px;
   padding:100px;
   margin-right:20px;
 }
 .parag{
   color:black;
-  float:left;
+  text-align:left;
   position: relative;
   margin-top:200px ;
   right:400px;
+  margin-left: 200px;
+  bottom: 250px;
+  
 }
+.image3{
+  float:right;
+  position: relative;
+  right : 80px;
+  height:300px;
+  width: 250px;
+ margin-bottom:  20px;
+ margin-right: 500px;
+
+}
+.read{
+  float:left;
+ color: #EC4067;
+ position: relative;
+bottom:180px;
+margin-right:700px;
+border:solid;
+left:100px;
+}
+
+h4{
+  color: palevioletred;
+  padding: 60px;
+  position:relative;
+  top: 80px;
+  
+}  
+.em img{
+  float:right;
+  position: relative;
+  right : 80px;
+  height:300px;
+  width: 250px;
+ margin-bottom:  20px;
+ margin-right: 450px;
+
+}
+.parag1{
+  color:black;
+  text-align:center;
+  position: relative;
+  margin-top:200px ;
+  right:400px;
+  margin-left:5px;
+  top: 200px;
+  
+} 
