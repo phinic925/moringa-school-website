@@ -145,9 +145,17 @@ bottom:180px;
 margin-right:700px;
 border:solid;
 }
-h3{
+.board{
   color:black;
   position: relative;
-  top:300px;
-  padding:50px;
+  top:180px;
+  padding:100px;
+  margin-right:20px;
+}
+.parag{
+  color:black;
+  float:left;
+  position: relative;
+  margin-top:200px ;
+  right:400px;
 }
