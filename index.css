@@ -49,152 +49,54 @@
 
 }
 h5{
-  padding: 0px 30px;
+  padding: 20px;
   color: black;
 }
 
   h1{
     color: palevioletred;
-    padding: 30px;
-    min-height: 5vh;
-    position:absolute;
-  }
-  
+    padding: 60px;
+    position:relative;
+    top: 80px;
     
-  .dir .right{
+  }  
+  img{
     float: right;
-    height: 500px;
-    width: 400px;
-     padding-left: 300px;
-      margin: 0px 0px 15px 20px;
+    height:300px;
+    width: 250px;
+   margin-bottom:  20px;
+   margin-right: 450px;
+
+  
   }
   .par {
     color: silver;
    text-align:left;
-   display:inline-block;
+   display: inline-block;
     padding-left: 0px 30px;
-    padding-top: 20px;
-    margin-left:40px;
-    clear:left;
+    clear:right;
+    margin:100px;
     
-  }
     
+  } 
 
-  h2{
-    align:right;
-    color: palevioletred;
-    padding: 40px 30px
-    display:flex;
-    margin-left:100px;
-
-  }
-  .para{
-    color: silver;
-   align:right;
-   display:inline-block;
-    padding: 40px 30px;
-    margin-left:100px;
-    clear: left;
-  }
-    .dir1{
-      width: 300px;
-      display: flex;
-      align-items: center;
-    }
-   
-    
-  .dir1 img{
-    float: right;
-    height: 300px;
-    width: 350px;
-    align:right;
-    margin-right: 10px;
-    display: flex;
-    padding: 60px;
-    
-
-  }
-  h3{
-    align:right;
-    color: palevioletred;
-    padding: 40px 30px
-    display:flex;
-    margin-left:100px;
-
-  }
-  .para{
-    color: silver;
-   align:right;
-   display:inline-block;
-    padding: 40px 30px;
-    margin-left:100px;
-    clear: left;
-  }
-    .dir1{
-      width: 300px;
-      display: flex;
-      align-items: center;
-    }
-   
-    
-  .dir1 img{
-    float: right;
-    height: 300px;
-    width: 350px;
-    align:right;
-    margin-right: 10px;
-    display: flex;
-    padding: 60px;
-    
-
-  }
-  
-  h4{
-    color: palevioletred;
-    padding: 30px;
-  }
-  .par{
-    color: silver;
-   align:right;
-   display:inline-block;
-    padding: 0px 30px;
-    margin-left:40px;
-    clear: right;
-  }
-    .dir{
-      width: 300px;
-      display: flex;
-      align-items: center;
-    }
-   
-    
-  .dir img{
-    float: right;
-    height: 500px;
-    width: 400px;
-    align:right;
-    margin-right: 10px;
-    display: flex;
-    
-
-  }
-  h6{
-    color: palevioletred;
-    padding: 100px;
-  }
-
- .now{
+  .now{
    background-color: #EC4067;
   color:black;
   border: solid;
   margin-inline-start: 50px;
+  margin-left: 100px;
+  position: relative;
+  bottom: 50px;
  }
 
  .exp{
    color: palevioletred;
    border: solid;
-
-   margin-inline-start: 10px;
+    margin-inline-start: 10px;
+   margin-left: 20px;
+   position: relative;
+   bottom: 50px;
  }
  .ries{
    color: black;
@@ -202,9 +104,9 @@ h5{
  .day{
    color: black;
    text-align:center;
-   position: relative;
+   position:relative;
     padding-left:50px;
-    padding-bottom:300px;
+    padding-bottom:1px;
 
  }
  .para{
@@ -228,3 +130,17 @@ margin-top:200px;
  margin-bottom: 250px;
 }
   
+.dir1{00px;
+  width:3;
+  display: flex;
+  align-items: center;
+}
+
+
+.parag{
+float: right;
+height: 800px;
+width: 400px;
+align:right;
+margin-right: 500px;
+display: flex;
