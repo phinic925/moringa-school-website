@@ -27,27 +27,22 @@
 .header.ref{
     color: black;
     text-align: left;
-    padding: 2p;
+    padding: 2px;
   }
+ 
+ .navs ul li{
+list-style: none;
+float: right;
+text-align: center;
+border-right: 2px;
 
-  
-  
-  
-  .act{
-    text-align: right;
-    margin-right :15px;
-    float: right;
-    display: inline;
-    display: flex;
-    color: silver;
-    padding: 15px;
-    text-decoration: none;
-}
-.act.enroll{
-    background-color: #EC4067;
-    margin: 2px;
+ }
+ li a{
+   text-decoration: none;
+   display: block;
 
-}
+ }
+  
 h5{
   padding: 70px;
   color: black;
@@ -86,7 +81,7 @@ h5{
   .now{
    background-color: #EC4067;
   color:black;
-  border: solid;
+  border: 2px solid #EC4067;
   margin-inline-start: 50px;
   margin-left: 100px;
   position: relative;
@@ -95,7 +90,7 @@ h5{
 
  .exp{
    color: palevioletred;
-   border: solid;
+   border: 2px solid #EC4067;
     margin-inline-start: 10px;
    margin-left: 20px;
    position: relative;
@@ -139,11 +134,12 @@ margin-top:200px;
 
 .go{
   float: right;
- color: #EC4067;
+ background-color: #EC4067;
+ border: 2px solid #EC4067;
  position: relative;
 bottom:180px;
 margin-right:700px;
-border:solid;
+
 }
 .board{
   color:black;
@@ -174,11 +170,11 @@ border:solid;
 }
 .read{
   float:left;
- color: #EC4067;
+ background-color: #EC4067;
+ border: 2px solid #EC4067;
  position: relative;
 bottom:180px;
 margin-right:700px;
-border:solid;
 left:100px;
 }
 
@@ -186,20 +182,22 @@ h4{
   color: palevioletred;
   padding: 100px;
   position:relative;
-  bottom:80px;
+  bottom: 100px;
   text-align:center;
   float:center;
+  left: -100px;
   
   
 }  
 .em img{
-  loat:left;
-  height: 300px;
-  width: 400px;
-  padding: 100px;
+  float:left;
+  height: 250px;
+  width: 300px;
+  padding: 80px;
   position: relative;
-  bottom: 350px;
+  bottom: 450px;
 }
+
   
   
 .parag1{
@@ -207,22 +205,25 @@ h4{
   text-align:center;
   float:center ;
   position: relative;
-  bottom: 150px;
+  bottom: 180px;
+  left: -120px;
   margin-left: 150px;
   
 } 
 .mentors{
   color: black;
   position: relative;
-  top:-250px;
+  top:-200px;
+  left:-450px;
+  
 }
 .dir2 img{
   height: 300px;
   width: 250px;
   position: relative;
-  top:-300px ;
-  padding: 20px;
-
+  top:-260px ;
+  padding: 60px;
+  left: -500px;
 }
 .web1{
   color: palevioletred;
@@ -239,7 +240,7 @@ h4{
 }
 .ask{
   background-color: #EC4067;
-  
+  border: 2px solid #EC4067;
   position: relative;
   top: -340px;
   padding: 20px;
@@ -270,7 +271,7 @@ h4{
 .now1{
   float: center;
   background-color: #EC4067;
-  
+  border: 2px solid #EC4067;
   position: relative;
   top: -430px;
   left: 350px;
@@ -305,7 +306,7 @@ h4{
 .now2{
   float: center;
   background-color: #EC4067;
-  
+  border: 2px solid #EC4067;
   position: relative;
   top: -500px;
   left: 700px;
@@ -336,6 +337,7 @@ h4{
 .now3{
     float: center;
     background-color: #EC4067;
+    border: 2px solid #EC4067;
     position: relative;
     top: -590px;
     left: 990px;
@@ -376,8 +378,7 @@ top: -500px;
   height: 250px;
 }
 .bike3{
-  color: #EC4067;
-  padding: 60px;
+padding: 60px;
   position: relative;
   top: -690px;
 }
@@ -396,6 +397,7 @@ top: -500px;
 }
 .mor3 .or{
   color: #EC4067;
+  
 }
 .mor3 .con{
   color: #EC4067;
