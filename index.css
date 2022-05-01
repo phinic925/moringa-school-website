@@ -294,12 +294,12 @@ h4{
   
 }
 .arn1{
-
-    text-align: center;
-    font-size: small;
-    position: relative;
-    top: -520px;
-    left: 400px; 
+  text-align: center;
+  font-size: small;
+  position: relative;
+  top: -530px;
+  left: 400px;
+    
     
 }
 .now2{
@@ -309,4 +309,34 @@ h4{
   position: relative;
   top: -500px;
   left: 700px;
+}
+.image8 img{
+  float:right;
+
+  position: relative;
+  top:-980px;
+  left: 400px;
+  width:250px;
+  height: 300px;
+}
+.web4{
+  color: palevioletred;
+  position: relative;
+  left: 650px;
+  top: -630px;
+  text-align: right;
+}
+.arn2{
+  text-align: right;
+  font-size: small;
+  position: relative;
+  top: -630px;
+  left: 650px;
+}
+.now3{
+    float: center;
+    background-color: #EC4067;
+    position: relative;
+    top: -590px;
+    left: 990px;
 }
