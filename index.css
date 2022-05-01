@@ -62,13 +62,14 @@ h5{
     top: 80px;
     
   }  
-  img{
-    float: right;
+  .img img{
+    float:right;
+    position: relative;
+    right : 80px;
     height:300px;
     width: 250px;
    margin-bottom:  20px;
    margin-right: 450px;
-
   
   }
   .par {
@@ -125,33 +126,28 @@ h5{
 margin-right: 500px;
 margin-top:200px;
 }
-img{
- float: left;
-  padding: 80px;
+.dir img{
+  float:left;
+  height: 300px;
   width: 400px;
-  height: 350px;
+  padding: 50px;
   position: relative;
-  bottom: 200px;
+  bottom: 450px;
+  
 }
+
+
 .go{
+  float: right;
  color: #EC4067;
  position: relative;
- left: 300px;
- bottom: 220px;
-
+bottom:180px;
+margin-right:700px;
+border:solid;
 }
-  
-.dir1{00px;
-  width:3;
-  display: flex;
-  align-items: center;
+h3{
+  color:black;
+  position: relative;
+  top:300px;
+  padding:50px;
 }
-
-
-.parag{
-float: right;
-height: 800px;
-width: 400px;
-align:right;
-margin-right: 500px;
-display: flex;
