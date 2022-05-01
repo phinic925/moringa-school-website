@@ -216,3 +216,63 @@ h4{
   position: relative;
   top:-250px;
 }
+.dir2 img{
+  height: 300px;
+  width: 250px;
+  position: relative;
+  top:-300px ;
+  padding: 20px;
+
+}
+.web1{
+  color: palevioletred;
+  position: relative;
+  top: -300px;
+  padding:20px ;
+}
+.sit{
+  color: black;
+  font-size: small;
+  position: relative;
+  top: -340px;
+  padding: 20px;
+}
+.ask{
+  background-color: #EC4067;
+  border: ridge;
+  position: relative;
+  top: -340px;
+  padding: 20px;
+}
+.image6 img{
+  float:right;
+  align-items: center;
+  position: relative;
+  top:-800px;
+  left: -700px;
+  width:250px;
+  height: 300px;
+}
+.web2{
+  color: palevioletred;
+  text-align: center;
+  position: relative;
+  top: -450px;
+  left: -80px;
+}
+.arn{
+  text-align: center;
+  font-size: small;
+  position: relative;
+  top: -450px;
+  left: -80px;
+}
+.now1{
+  float: center;
+  background-color: #EC4067;
+  border: ridge;
+  position: relative;
+  top: -430px;
+  left: 350px;
+}
+
